@@ -8,7 +8,7 @@ Left with a broken heart.
 
 ## Languages & Frameworks:
 ### Main
-- Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
+- Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg"/>
 - Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 
 ### Side
