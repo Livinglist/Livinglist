@@ -6,7 +6,7 @@ Frustrated with Swift??!!
 
 Left with a broken heart.
 
-A software engineer, mobile app developer, programming language explorer, bodybuilder...
+Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming language explorer, and bodybuilder...
 
 ## Languages & Frameworks:
 ### Main
