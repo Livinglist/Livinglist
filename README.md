@@ -27,6 +27,9 @@ Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming
 [website]: https://livinglist.github.io/
 [linkedin]: https://linkedin.com/in/jiaqifeng
 
+## Stat
+<img src="https://github-readme-stats.vercel.app/api?username=livinglist&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
+
 <!--
 **Livinglist/Livinglist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
