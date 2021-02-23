@@ -8,6 +8,8 @@ Left with a broken heart.
 
 Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming language explorer, and bodybuilder...
 
+Check out my pinned repo for apps I made!
+
 ## Languages & Frameworks:
 ### Main
 - Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg"/>
