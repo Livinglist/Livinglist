@@ -45,7 +45,7 @@ Check out my pinned repo for apps I made!
 <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110460982-be7f0a80-8083-11eb-9180-1675e2c6b4fb.png">
     <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108316723-24a5fb00-7172-11eb-841c-a36a6dffb8b3.png"> 
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108588467-3a502780-730e-11eb-87f5-0731f2b3b922.png"> 
-<img width="360" alt="Screen Shot 2020-08-20 at 6 21 33 PM" src="https://user-images.githubusercontent.com/7277662/109369447-3150e000-7851-11eb-8901-7a7fb244b5e3.png">
+<img width="360" alt="Screen Shot 2020-08-20 at 6 21 33 PM" src="https://user-images.githubusercontent.com/7277662/110915127-1ad46b00-82cc-11eb-9e63-74bee0eae34e.png">
     <img width="360" alt="Screen Shot 2020-03-03 at 1 25 18 PM" src="https://user-images.githubusercontent.com/7277662/109369446-3150e000-7851-11eb-9571-7917ae5eef78.png">
 <p/>
 
