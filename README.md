@@ -14,25 +14,46 @@ Currently pursuing BS degree in Software Engineering at *San Jose State Universi
 
 Check out my pinned repo for apps I made!
 
-## Languages & Frameworks:
+## Languages:
 ### Main
 - Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg"/>
+
 - Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
+
 - JavaScript (React) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 
 ### Side
 - C++ <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"/>
+
 - C# (UWP) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/>
+
 - Go <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg"/>
+
 - Python (Flask)<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 
+## Frameworks and other stuff:
+### Storage-related 
+*AWS, Firebase, MySQL, SQLite, CoreData, JSON*
+
+### Network-related 
+*HTTP, OAuth, HTML, CSS, XML, REST, Kafka, Spring Boot*
+
+### Design-pattern-related
+*MVC, MVVN, Redux(RxDart, RxSwift...)*
+
+### Version-control-related
+*Git, SVN*
+
+### Team-collaboration-related
+*Scrum, Kanban*
+
 ## Connect
-- [Portfolio<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/llvm.svg"/>][website]
-- [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]  
+- [LinkedIn<img align="left" alt="livinglist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
+- [Resume<img align="left" alt="livinglist | Resume" width="22px" href="Jiaqi_Feng_resume.pdf" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/informatica.svg"/>][resume]
 
-[website]: https://livinglist.github.io/
 [linkedin]: https://linkedin.com/in/jiaqifeng
+[Resume]: https://livinglist.github.io/Jiaqi_Feng_resume.pdf
 
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api?username=livinglist&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
