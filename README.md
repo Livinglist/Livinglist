@@ -48,10 +48,13 @@ Check out my pinned repo for apps I made!
 *Scrum, Kanban*
 
 ## Connect
+- [Portfolio<img align="left" alt="livinglist | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][portfolio]
+
 - [LinkedIn<img align="left" alt="livinglist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 - [Resume<img align="left" alt="livinglist | Resume" width="22px" href="Jiaqi_Feng_resume.pdf" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/informatica.svg"/>][resume]
 
+[Portfolio]: https://livinglist.github.io/
 [linkedin]: https://linkedin.com/in/jiaqifeng
 [Resume]: https://livinglist.github.io/Jiaqi_Feng_resume.pdf
 
