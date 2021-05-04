@@ -16,20 +16,15 @@ Check out my pinned repo for apps I made!
 
 ## Languages:
 ### Main
-- Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg"/>
-
-- Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
-
-- JavaScript (React, React Native) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+- <img alt="Dart" src="https://img.shields.io/badge/Dart-3178C6?logo=dart&logoColor=white&style=flat" />
+- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+- <img alt="Swift" src="https://img.shields.io/badge/Swift-E34F26?logo=swift&logoColor=white&style=flat" />
 
 ### Side
-- C++ <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"/>
-
-- C# (UWP) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/>
-
-- Go <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg"/>
-
-- Python (Flask)<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+- <img alt="Go" src="https://img.shields.io/badge/Go-1572B6?logo=go&logoColor=white&style=flat" />
+- <img alt="C++" src="https://img.shields.io/badge/C++-1572B6?logo=c%2B%2B&logoColor=white&style=flat" />
+- <img alt="C#" src="https://img.shields.io/badge/C%23-1572B6?logo=c-sharp&logoColor=white&style=flat" />
+- <img alt="Python" src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=white&style=flat" />
 
 ## Frameworks and other stuff:
 ### Storage-related 
