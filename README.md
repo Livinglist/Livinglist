@@ -52,10 +52,10 @@ Check out my pinned repo for apps I made!
 [Resume]: https://livinglist.github.io/Jiaqi_Feng_resume.pdf
 
 ## Stat
-<p align="left">
+<p align="center">
   <a href="https://github.com/livinglist?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=livinglist&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156"></a>
-<a href="https://github.com/livinglist?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=livinglist&layout=compact&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515" alt="top langs" height="156"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=livinglist&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="180"></a>
+<a href="https://github.com/livinglist?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=livinglist&layout=compact&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515" alt="top langs" height="180"/></a>
 </p>
 
 ## Gallery
