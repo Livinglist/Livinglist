@@ -53,6 +53,7 @@ Check out my pinned repo for apps I made!
 
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api?username=livinglist&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/livinglist?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=livinglist&theme=vue&layout=compact&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515" alt="top langs" height="156"/></a></p>
 
 ## Gallery
 <p align="center">
