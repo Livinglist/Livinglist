@@ -60,6 +60,8 @@ Check out my pinned repo for apps I made!
 
 ## Gallery
 <p align="center">
+    <img width="360" alt="Screen Shot 2020-08-20 at 6 16 26 PM" src="https://user-images.githubusercontent.com/7277662/148358957-24fa833d-6d09-43c8-9030-b86e8dd33dc5.png">
+    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148358776-982bf553-4193-40df-b3cd-862c34047bdf.png"> 
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/90493962-d5660b80-e0f7-11ea-9971-dba0951fd60e.png"> 
   <img width="360" alt="Screen Shot 2020-08-20 at 6 16 26 PM" src="https://user-images.githubusercontent.com/7277662/90866236-75b26f00-e348-11ea-82e9-b8af9fd98b3d.png">
   <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/111752809-613d4300-8853-11eb-8ec5-030f5d639f2c.png">
