@@ -61,9 +61,11 @@ Check out my pinned repo for apps I made!
 ## Gallery
 <p align="center">
   <a href="https://github.com/livinglist/Hacki">
-    <img width="360" alt="Screen Shot 2020-08-20 at 6 16 26 PM" src="https://user-images.githubusercontent.com/7277662/148358957-24fa833d-6d09-43c8-9030-b86e8dd33dc5.png"></a>
-  <a href="https://github.com/livinglist/Hacki">
-    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148358776-982bf553-4193-40df-b3cd-862c34047bdf.png"></a>
+    <img width="360" alt="Screen Shot 2022-01-24 at 11 43 45 AM" src="https://user-images.githubusercontent.com/7277662/150853873-e21daab4-de30-4396-885e-72760746697a.png">
+<img width="360" alt="Screen Shot 2022-01-24 at 11 45 48 AM" src="https://user-images.githubusercontent.com/7277662/150853664-5edece06-93ec-43ce-b1ef-111f83ee4f83.png">
+<img width="360" alt="Screen Shot 2022-01-24 at 11 44 56 AM" src="https://user-images.githubusercontent.com/7277662/150853680-0ce2c32a-a6fa-4c81-a789-b891ffbb8dae.png">
+<img width="360" alt="Screen Shot 2022-01-24 at 11 45 11 AM" src="https://user-images.githubusercontent.com/7277662/150853689-e4b2d527-0437-4622-9a15-1f6e27cac722.png">
+    </a>
   <a href="https://github.com/livinglist/Manji">
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/90493962-d5660b80-e0f7-11ea-9971-dba0951fd60e.png"></a>
   <a href="https://github.com/livinglist/Manji">
