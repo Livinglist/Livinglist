@@ -24,22 +24,6 @@ Check out my pinned repo for apps I made!
 - <img alt="Python" src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=white&style=flat" />
 - <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
 
-## Frameworks and other stuff:
-### Storage-related 
-*AWS, Firebase, MySQL, SQLite, CoreData, JSON*
-
-### Network-related 
-*HTTP, OAuth, HTML, CSS, XML, REST, Kafka, Spring Boot*
-
-### Design-pattern-related
-*MVC, MVVN, Redux(RxDart, RxSwift...)*
-
-### Version-control-related
-*Git, SVN*
-
-### Team-collaboration-related
-*Scrum, Kanban*
-
 ## Connect
 - [Portfolio<img align="left" alt="livinglist | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][portfolio]
 
