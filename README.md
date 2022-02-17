@@ -32,12 +32,17 @@ Check out my pinned repo for apps I made!
 
 ## Gallery
 <p align="center">
-  <a href="https://github.com/livinglist/Hacki">
-    <img width="360" alt="Screen Shot 2022-01-24 at 11 43 45 AM" src="https://user-images.githubusercontent.com/7277662/150853873-e21daab4-de30-4396-885e-72760746697a.png">
-<img width="360" alt="Screen Shot 2022-01-24 at 11 45 48 AM" src="https://user-images.githubusercontent.com/7277662/150853664-5edece06-93ec-43ce-b1ef-111f83ee4f83.png">
-<img width="360" alt="Screen Shot 2022-01-24 at 11 44 56 AM" src="https://user-images.githubusercontent.com/7277662/150853680-0ce2c32a-a6fa-4c81-a789-b891ffbb8dae.png">
-<img width="360" alt="Screen Shot 2022-01-24 at 11 45 11 AM" src="https://user-images.githubusercontent.com/7277662/150853689-e4b2d527-0437-4622-9a15-1f6e27cac722.png">
-    </a>
+ <a href="https://github.com/livinglist/Hacki">
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148904175-8313d30a-ef84-4f3a-9ac2-f9e06021615d.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/150713047-2710add8-0493-4c42-a710-f96dc77cfde1.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/150918515-0fc4869f-efa3-473f-90af-381daf5e4915.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/152305175-94fa3696-f40f-4f40-b040-f17fc59ff260.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/153973720-8a6aad44-7df3-4deb-8465-8c88b5e5f587.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/153973715-a33018d2-d3b1-4bfa-be39-56f5e3c4830b.png"> 
+  </a>
+
   <a href="https://github.com/livinglist/Manji">
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/90493962-d5660b80-e0f7-11ea-9971-dba0951fd60e.png"></a>
   <a href="https://github.com/livinglist/Manji">
