@@ -35,7 +35,7 @@ Check out my pinned repo for apps I made!
  <a href="https://github.com/livinglist/Hacki">
    <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png"> 
    <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png"> 
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148904175-8313d30a-ef84-4f3a-9ac2-f9e06021615d.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/155449430-d987d578-94f6-41b5-acf4-cbcb3d0e3a4d.png"> 
    <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/150713047-2710add8-0493-4c42-a710-f96dc77cfde1.png"> 
    <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/150918515-0fc4869f-efa3-473f-90af-381daf5e4915.png"> 
    <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/152305175-94fa3696-f40f-4f40-b040-f17fc59ff260.png"> 
@@ -60,4 +60,5 @@ Check out my pinned repo for apps I made!
   <a href="https://github.com/livinglist/Yanji">
     <img width="360" alt="Screen Shot 2020-03-03 at 1 25 18 PM" src="https://user-images.githubusercontent.com/7277662/110915060-0d1ee580-82cc-11eb-9a77-542ae355d855.png"></a>
 <p/>
+
 
