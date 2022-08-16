@@ -8,9 +8,9 @@ Frustrated with Swift??!!
 Left with a broken heart.
 ```
 
-Hi there. I'm Jiaqi Feng, a software engineer specializing in mobile application development, a programming language explorer, and a bodybuilder.
+Hi there. I'm Jiaqi Feng, a software engineer passionate about and specializing in mobile application development.
 
-Check out my pinned repo for apps I made!
+Check out my pinned repo below for apps I built!
 
 ## Connect
 - [Portfolio<img align="left" alt="livinglist | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][portfolio]
