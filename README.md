@@ -1,13 +1,3 @@
-```
-Started with C#.
-
-Fell in love with Dart.
-
-Frustrated with Swift??!!
-
-Left with a broken heart.
-```
-
 Hi there. I'm Jiaqi Feng, a software engineer passionate about and specializing in mobile application development.
 
 Check out my pinned repo below for apps I built!
