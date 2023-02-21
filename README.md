@@ -1,8 +1,3 @@
-Hi there. I'm Jiaqi Feng, a software engineer passionate about and specializing in mobile application development.
-
-Check out my pinned repo below for apps I built!
-
-
 ## Stat
 <p align="center">
   <a href="https://github.com/livinglist?tab=repositories">
