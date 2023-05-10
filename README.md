@@ -9,8 +9,7 @@
 
 <p align="center">
    <a href="https://github.com/livinglist/ZCombinator">
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-1.png"> 
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-2.png"> 
+   <img width="720" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://github.com/Livinglist/ZCombinator/blob/main/Resources/zcombinator-github.png">
      </a>
  <a href="https://github.com/livinglist/Hacki">
    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/171450528-02c561ed-0ebb-4c1b-9ee0-a935211db0f2.png"> 
