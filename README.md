@@ -19,14 +19,6 @@
  </a>
   <details><summary>Show More (click on screenshot to view the corresponding repository)</summary>
   <p align="center">
-   <a href="https://github.com/livinglist/Hacki">
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/171450548-38e98b02-6201-48c9-9674-87bdfc61f456.png"> 
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/159798179-72edbe49-7444-4e54-a07c-fc1244447a74.png"> 
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/159798182-28397805-a7cc-4124-b65b-c02c80afbbec.png"> 
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/159798183-c2984270-ee99-4419-841e-65e98890464f.png"> 
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/171992928-079f338d-187d-4b11-8087-ff4d66557d83.png"> 
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/171450557-ab038e72-78c4-4daf-9b77-3873be1700db.png"> 
-  </a>
 
   <a href="https://github.com/livinglist/Manji">
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/90493962-d5660b80-e0f7-11ea-9971-dba0951fd60e.png"></a>
