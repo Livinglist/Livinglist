@@ -11,10 +11,10 @@
    <img width="720" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://github.com/Livinglist/ZCombinator/blob/main/Resources/zcombinator-github.png">
      </a>
  <a href="https://github.com/livinglist/Hacki">
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/light-1.png"> 
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/dark-2.png">
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/light-5.png">
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/dark-4.png">
+   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/01_hacki.png"> 
+   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/02_hacki.png">
+   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/06_hacki.png">
+   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/11_hacki.png">
  </a>
   <details><summary>Show More (click on screenshot to view the corresponding repository)</summary>
   <p align="center">
