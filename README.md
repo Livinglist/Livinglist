@@ -6,16 +6,23 @@
 
 ## Gallery
 
+## Gem for Hacker News
 <p align="center">
-   <a href="https://github.com/livinglist/ZCombinator">
-   <img width="720" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://github.com/Livinglist/ZCombinator/blob/main/Resources/zcombinator-github.png">
-     </a>
+  <a href="https://github.com/livinglist/Gem">
+    <img width="360" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
+    <img width="360" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread.png">
+  </a>
+</p>
+
+  ## Hacki for Hacker News
+  <p align="center">
  <a href="https://github.com/livinglist/Hacki">
    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/01_hacki.png"> 
    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/02_hacki.png">
    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/06_hacki.png">
    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/11_hacki.png">
  </a>
+    </p>
   <details><summary>Show More (click on screenshot to view the corresponding repository)</summary>
   <p align="center">
 
