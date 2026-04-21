@@ -6,7 +6,7 @@
 
 # Gallery
 
-## Gem for Hacker News
+## <img width="64" src="https://github.com/Livinglist/Gem/blob/main/Resources/gem_app_icon_1024.png"> Gem for Hacker News
 <p align="center">
   <a href="https://github.com/livinglist/Gem">
     <img width="360" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-  ## Hacki for Hacker News
+   ## <img width="64" src="https://user-images.githubusercontent.com/7277662/167775086-0b234f28-dee4-44f6-aae4-14a28ed4bbb6.png"> Hacki for Hacker News
   <p align="center">
  <a href="https://github.com/livinglist/Hacki">
    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/01_hacki.png"> 
