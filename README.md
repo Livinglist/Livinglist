@@ -36,10 +36,10 @@
 </p>
 <p align="center">
    <a href="https://github.com/livinglist/Gem">
-   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
-   <img width="240" scr="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_side_menu.png">
-   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread.png">
-   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread_comment_context_menu.png">
+   <img width="200" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
+   <img width="200" scr="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_side_menu.png">
+   <img width="200" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread.png">
+   <img width="200" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread_comment_context_menu.png">
    </a>
 </p>
 
