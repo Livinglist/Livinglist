@@ -1,22 +1,4 @@
 <p align="center">
-   <a href="https://github.com/livinglist/Gem">
-   <img width="64" src="https://github.com/Livinglist/Gem/blob/main/Resources/gem_app_icon_1024.png"> 
-   </a>
-<h3 align="center">
-   <a href="https://github.com/livinglist/Gem">Gem</a> for Hacker News
-</h3>
-      <p align="center">
-   <img src="https://img.shields.io/itunes/v/6762153947?label=App%20Store&logo=appstore">
-   <img src="https://img.shields.io/github/stars/livinglist/gem">
-   </p>
-</p>
-<p align="center">
-   <a href="https://github.com/livinglist/Gem">
-   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
-   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread.png">
-   </a>
-</p>
-<p align="center">
    <a>
    <img width="64" src="https://user-images.githubusercontent.com/7277662/167775086-0b234f28-dee4-44f6-aae4-14a28ed4bbb6.png"> 
    </a>
@@ -39,6 +21,26 @@
    <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/11_hacki.png">
    </a>
 </p>
+
+<p align="center">
+   <a href="https://github.com/livinglist/Gem">
+   <img width="64" src="https://github.com/Livinglist/Gem/blob/main/Resources/gem_app_icon_1024.png"> 
+   </a>
+<h3 align="center">
+   <a href="https://github.com/livinglist/Gem">Gem</a> for Hacker News
+</h3>
+      <p align="center">
+   <img src="https://img.shields.io/itunes/v/6762153947?label=App%20Store&logo=appstore">
+   <img src="https://img.shields.io/github/stars/livinglist/gem">
+   </p>
+</p>
+<p align="center">
+   <a href="https://github.com/livinglist/Gem">
+   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
+   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread.png">
+   </a>
+</p>
+
 <details>
    <summary>Show More (click on screenshot to view the corresponding repository)</summary>
    <p align="center">
