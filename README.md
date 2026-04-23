@@ -1,5 +1,3 @@
-# Gallery
-
 <p align="center">
    <a href="https://github.com/livinglist/Gem">
    <img width="64" src="https://github.com/Livinglist/Gem/blob/main/Resources/gem_app_icon_1024.png"> 
