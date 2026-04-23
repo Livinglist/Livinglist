@@ -12,8 +12,8 @@
 </p>
 <p align="center">
    <a href="https://github.com/livinglist/Gem">
-   <img width="360" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
-   <img width="360" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread.png">
+   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
+   <img width="240" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/thread.png">
    </a>
 </p>
 <p align="center">
@@ -33,10 +33,10 @@
 </p>
 <p align="center">
    <a href="https://github.com/livinglist/Hacki">
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/01_hacki.png"> 
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/02_hacki.png">
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/06_hacki.png">
-   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/11_hacki.png">
+   <img width="240" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/01_hacki.png"> 
+   <img width="240" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/02_hacki.png">
+   <img width="240" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/06_hacki.png">
+   <img width="240" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/11_hacki.png">
    </a>
 </p>
 <details>
