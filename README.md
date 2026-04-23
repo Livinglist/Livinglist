@@ -6,17 +6,13 @@
 
 # Gallery
 
-
-
-
 <p align="center">
    <a href="https://github.com/livinglist/Gem">
    <img width="64" src="https://github.com/Livinglist/Gem/blob/main/Resources/gem_app_icon_1024.png"> 
    </a>
 <h3 align="center">
-   <a href="https://github.com/livinglist/Gem">Gem</a> for Hacker News
+   <a href="https://github.com/livinglist/Gem">Gem</a> for Hacker News  <img src="https://img.shields.io/github/stars/livinglist/gem">
 </h3>
-</p>
 <p align="center">
    <a href="https://github.com/livinglist/Gem">
    <img width="360" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
@@ -28,7 +24,7 @@
    <img width="64" src="https://user-images.githubusercontent.com/7277662/167775086-0b234f28-dee4-44f6-aae4-14a28ed4bbb6.png"> 
    </a>
 <h3 align="center">
-   <a href="https://github.com/livinglist/Hacki">Hacki</a> for Hacker News
+   <a href="https://github.com/livinglist/Hacki">Hacki</a> for Hacker News <img src="https://img.shields.io/github/stars/livinglist/hacki">
 </h3>
 </p>
 <p align="center">
