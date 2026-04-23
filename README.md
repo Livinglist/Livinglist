@@ -25,7 +25,7 @@
 </h3>
    <p align="center">
    <img src="https://img.shields.io/itunes/v/1602043763?label=App%20Store&logo=appstore">
-   <img src="https://img.shields.io/endpoint?color=green&logo=googleplay&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.jiaqifeng.hacki%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%26m%3D%24versioni">
+   <img src="https://img.shields.io/endpoint?color=green&logo=googleplay&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.jiaqifeng.hacki%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%26m%3D%24version">
    <img src="https://img.shields.io/f-droid/v/com.jiaqifeng.hacki?logo=fdroid">
    <img src="https://img.shields.io/github/release/livinglist/hacki.svg?logo=github">
    <img src="https://img.shields.io/github/stars/livinglist/hacki">
