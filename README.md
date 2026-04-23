@@ -3,8 +3,13 @@
    <img width="64" src="https://github.com/Livinglist/Gem/blob/main/Resources/gem_app_icon_1024.png"> 
    </a>
 <h3 align="center">
-   <a href="https://github.com/livinglist/Gem">Gem</a> for Hacker News  <img src="https://img.shields.io/github/stars/livinglist/gem">
+   <a href="https://github.com/livinglist/Gem">Gem</a> for Hacker News
 </h3>
+      <p align="center">
+   <img src="https://img.shields.io/itunes/v/6762153947?label=App%20Store&logo=appstore">
+   <img src="https://img.shields.io/github/stars/livinglist/gem">
+   </p>
+</p>
 <p align="center">
    <a href="https://github.com/livinglist/Gem">
    <img width="360" src="https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/home_top.png">
@@ -16,8 +21,15 @@
    <img width="64" src="https://user-images.githubusercontent.com/7277662/167775086-0b234f28-dee4-44f6-aae4-14a28ed4bbb6.png"> 
    </a>
 <h3 align="center">
-   <a href="https://github.com/livinglist/Hacki">Hacki</a> for Hacker News <img src="https://img.shields.io/github/stars/livinglist/hacki">
+   <a href="https://github.com/livinglist/Hacki">Hacki</a> for Hacker News
 </h3>
+   <p align="center">
+   <img src="https://img.shields.io/itunes/v/1602043763?label=App%20Store&logo=appstore">
+   <img src="https://img.shields.io/endpoint?color=green&logo=googleplay&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.jiaqifeng.hacki%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%26m%3D%24versioni">
+   <img src="https://img.shields.io/f-droid/v/com.jiaqifeng.hacki?logo=fdroid">
+   <img src="https://img.shields.io/github/release/livinglist/hacki.svg?logo=github">
+   <img src="https://img.shields.io/github/stars/livinglist/hacki">
+   </p>
 </p>
 <p align="center">
    <a href="https://github.com/livinglist/Hacki">
