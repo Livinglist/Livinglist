@@ -43,6 +43,28 @@
    </a>
 </p>
 
+<p align="center">
+   <a href="https://github.com/livinglist/Manji">
+   <img width="64" src="https://github.com/user-attachments/assets/8fa6cc4e-a8e5-4c53-bef9-ef6e8580684b"> 
+   </a>
+<h3 align="center">
+   <a href="https://github.com/livinglist/Manji">Manji</a> - Kanji dictionary
+</h3>
+      <p align="center">
+   <img src="https://img.shields.io/itunes/v/1464774967?label=App%20Store&logo=appstore">
+   <img src="https://img.shields.io/github/stars/livinglist/Manji">
+   </p>
+</p>
+<p align="center">
+   <a href="https://github.com/livinglist/Manji">
+  <img width="200" alt="Screen Shot 2020-08-20 at 6 16 26 PM" src="https://user-images.githubusercontent.com/7277662/90866236-75b26f00-e348-11ea-82e9-b8af9fd98b3d.png">
+  <img width="200" alt="Screen Shot 2020-03-03 at 1 25 18 PM" src="https://user-images.githubusercontent.com/7277662/90494379-4d343600-e0f8-11ea-82c2-f462beb91396.png">
+<img width="200" alt="Screen Shot 2020-08-20 at 6 21 48 PM" src="https://user-images.githubusercontent.com/7277662/90866324-8fec4d00-e348-11ea-8d88-e55d66173563.png">
+<img width="200" alt="Screen Shot 2020-04-20 at 8 01 24 PM" src="https://user-images.githubusercontent.com/7277662/90494401-53c2ad80-e0f8-11ea-8aec-70ebe5e3cb61.png">
+   </a>
+</p>
+
+
 <details>
    <summary>Show More (click on screenshot to view the corresponding repository)</summary>
    <p align="center">
