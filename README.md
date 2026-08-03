@@ -15,9 +15,9 @@
 </p>
 <p align="center">
    <a href="https://github.com/livinglist/Hacki">
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/01_hacki.png"> 
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/new_screenshots/hacki_01.png">
    <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/02_hacki.png">
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/06_hacki.png">
+   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/new_screenshots/hacki_59.png">
    <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/screenshots/selected/11_hacki.png">
    </a>
 </p>
