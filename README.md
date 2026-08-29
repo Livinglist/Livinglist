@@ -31,6 +31,7 @@
 </h3>
       <p align="center">
    <img src="https://img.shields.io/itunes/v/6762153947?label=App%20Store&logo=appstore">
+   <img src="https://img.shields.io/github/release/livinglist/gem.svg?logo=github">
    <img src="https://img.shields.io/github/stars/livinglist/gem">
    </p>
 </p>
